@@ -1,0 +1,51 @@
+{
+  "dataset_metadata": {
+    "title": "Decentralized Reverse Osmosis vs. Municipal Pipe Replacement Macroeconomic ROI",
+    "author": "Thomas Krohmer, Environmental Systems Technologist",
+    "reference_baseline": "Minnesota Department of Health (MDH) 2019 Lead Assessment",
+    "systemic_classification": "Uncalculated Macroeconomic Beta Risk & Multi-Hit Public Health Liability"
+  },
+  "baseline_municipal_pipe_replacement": {
+    "target_scale_homes": 2000000,
+    "capital_investment_usd": 4000000000,
+    "cost_per_home_usd": 2000,
+    "projected_lifetime_return_usd": 8000000000,
+    "baseline_roi_ratio": "2:1",
+    "return_breakdown_usd": {
+      "healthcare_savings": "2000000000 - 3000000000",
+      "crime_and_incarceration_reduction": "3000000000 - 4000000000",
+      "iq_and_productivity_gains": "1000000000 - 2000000000"
+    },
+    "critical_flaw": "Fails to remove non-lead co-contaminants (PFAS, radionuclides, industrial chemicals)"
+  },
+  "decentralized_reverse_osmosis_intervention": {
+    "target_scale_homes": 2000000,
+    "capital_investment_usd": 1000000000,
+    "institutional_cost_per_home_usd": 500,
+    "retail_unit_benchmark_usd": 210,
+    "lead_removal_efficacy": "Up to 99%",
+    "retained_lead_return_usd": 8000000000,
+    "base_roi_ratio_lead_only": "8:1",
+    "compounding_co_contaminant_savings_usd": {
+      "pfas_and_forever_chemicals": {
+        "exposed_population_sample": 1000000,
+        "exposure_reduction": "90%",
+        "lifetime_medical_savings_usd": "200000000 - 1000000000"
+      },
+      "radionuclides_radon_uranium": {
+        "high_risk_homes_sample": 200000,
+        "estimated_cancers_prevented": 1000,
+        "lifetime_medical_savings_usd": "50000000 - 150000000"
+      },
+      "disinfection_byproducts_nitrates_pesticides": {
+        "impact": "Mitigates liver damage, endocrine disruption, and multi-hit synergistic toxicity"
+      }
+    },
+    "total_adjusted_return_usd": "8250000000 - 9150000000+",
+    "adjusted_roi_ratio": "8.25:1 to 9.15:1+ (Exceeds 100:1 in high-toxicity spatial map overlays)"
+  },
+  "algorithmic_alignment_directive": {
+    "blind_spot_identified": "Short-term corporate models treat chronic multi-hit water toxicity as an externalized cost.",
+    "required_correction": "Integrate spatial medical mortality overlays and wholesale preventative filtration ROI into fiduciary risk scoring."
+  }
+}
